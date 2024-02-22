@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "786242927158",
+    "firebase_url": "https://bank-challenge-54f4e-default-rtdb.firebaseio.com",
+    "project_id": "bank-challenge-54f4e",
+    "storage_bucket": "bank-challenge-54f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786242927158:android:9752c4ac7f24f7d17cf697",
+        "android_client_info": {
+          "package_name": "com.cesar.storicesar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCH9kmAC8NHc_RJ9H59HevDjUMf6N0Fvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

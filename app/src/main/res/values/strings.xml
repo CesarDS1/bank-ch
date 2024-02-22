@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BankChallenge</string>
+    <string name="onboarding_register">Register</string>
+    <string name="onboarding_continue_btn">Continue</string>
+    <string name="login">Login</string>
+    <string name="home">HOME</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="account_number">Account number:</string>
+    <string name="balance">Balance:</string>
+    <string name="transactions">Transactions</string>
+    <string name="movement">Movement</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="photo_id">Photo ID</string>
+    <string name="no_movements">You don´t have movements right now</string>
+    <string name="welcome">Welcome</string>
+    <string name="go_to_login">Go to login</string>
+    <string name="camera_permission_grant">The camera is important for this app. Please grant the permission.</string>
+    <string name="camera_permission_required">Camera permission required for this feature to be available.Please grant the permission</string>
+    <string name="request_permissions">Request permission</string>
+    <string name="take_photo_id">Take a photo of your ID</string>
+    <string name="register_success">Register success</string>
+    <string name="photo_saved">Photo saved</string>
+
+    <string name="error_login">Login error, please check your credentials</string>
+    <string name="error_on_register">Error on register</string>
+    <string name="error_on_photo_save">Photo saved error</string>
+</resources>
